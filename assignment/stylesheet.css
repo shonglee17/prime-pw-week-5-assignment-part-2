@@ -15,7 +15,7 @@ main{
 }
 
 body{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwoNbSVM9SXj0bS1TJKImJMJxcnKkecZ-ejXhgYKiyvlbQMGPS5GafPVBgpbh3R7mwaAM&usqp=CAU");
-    background-repeat: repeat-x;
+    background-image: url("record.png");
+    /* background-repeat: repeat-x; */
     margin: 0;
 }
